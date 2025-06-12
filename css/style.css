@@ -244,12 +244,14 @@ footer {
     padding: 0 20px;
     height: auto;
     text-align: justify;
+    margin-bottom: 20px;
   }
 
   /* Project Section */
   .project {
     height: auto;
     padding: 0 20px;
+    margin-bottom: 20px;
   }
 
   .project-pertama,
